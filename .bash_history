@@ -28,3 +28,10 @@ git config --global credential.helper store
 git config --global credential.helper store
 git config --global credential.helper store
 kewla70
+git init
+git add .
+git status
+git commit -m "Initial commit"
+git remote add origin https://github.com/kewla70/events-app-api-server.git
+git branch -M main
+git push -u origin main
