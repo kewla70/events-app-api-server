@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 user410    1001 4096 Jul  4 19:05 .
+drwxr-xr-x 4 root    root    4096 Nov 20  2020 ..
+-rw------- 1 user410 user410   82 Jul  4 19:05 .bash_history
+-rw-r--r-- 1 user410 user410    0 Jul  4 19:05 user410-roidtc-july2022-u410.txt
